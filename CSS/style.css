@@ -170,3 +170,10 @@ footer {
   background: var(--brand-dark);
   color: var(--text-muted);
   text-align: center;
+  padding: 24px;
+  font-size: 0.85rem;
+}
+
+[data-i18n] { }
+html[data-lang="en"] [data-zh] { display: none; }
+html[data-lang="zh"] [data-en] { display: none; }
