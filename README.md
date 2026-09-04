@@ -25,3 +25,4 @@
 
 ## 之后接自己的域名
 网站在 Netlify 上确认没问题后，再去域名注册商后台把 limidation.ca 的 DNS 指向 Netlify 提供的记录（Netlify 部署成功页面会显示具体数值）。
+ 
